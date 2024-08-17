@@ -52,7 +52,6 @@
             DealerPicture6 = new PictureBox();
             DealerPicture7 = new PictureBox();
             playerNameLabel = new Label();
-            dataGridView1 = new DataGridView();
             changeNameBTN = new Button();
             DeletePlayerBTN = new Button();
             gameCardGridView = new DataGridView();
@@ -74,7 +73,6 @@
             ((System.ComponentModel.ISupportInitialize)PlayerpictureBox7).BeginInit();
             ((System.ComponentModel.ISupportInitialize)DealerPicture6).BeginInit();
             ((System.ComponentModel.ISupportInitialize)DealerPicture7).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)gameCardGridView).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView3).BeginInit();
             SuspendLayout();
@@ -113,10 +111,10 @@
             // 
             // StartButton
             // 
-            StartButton.Location = new Point(1206, 6);
+            StartButton.Location = new Point(6, 40);
             StartButton.Margin = new Padding(4, 3, 4, 3);
             StartButton.Name = "StartButton";
-            StartButton.Size = new Size(98, 29);
+            StartButton.Size = new Size(139, 44);
             StartButton.TabIndex = 3;
             StartButton.Text = "Start";
             StartButton.UseVisualStyleBackColor = true;
@@ -124,7 +122,7 @@
             // 
             // DealerPicture1
             // 
-            DealerPicture1.Location = new Point(58, 68);
+            DealerPicture1.Location = new Point(58, 121);
             DealerPicture1.Margin = new Padding(4, 3, 4, 3);
             DealerPicture1.Name = "DealerPicture1";
             DealerPicture1.Size = new Size(114, 166);
@@ -152,7 +150,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(7, 134);
+            label1.Location = new Point(7, 187);
             label1.Margin = new Padding(4, 0, 4, 0);
             label1.Name = "label1";
             label1.Size = new Size(40, 15);
@@ -182,7 +180,7 @@
             // DealerLabel
             // 
             DealerLabel.AutoSize = true;
-            DealerLabel.Location = new Point(100, 50);
+            DealerLabel.Location = new Point(67, 103);
             DealerLabel.Margin = new Padding(4, 0, 4, 0);
             DealerLabel.Name = "DealerLabel";
             DealerLabel.Size = new Size(88, 15);
@@ -192,10 +190,10 @@
             // 
             // ResetButton
             // 
-            ResetButton.Location = new Point(1312, 5);
+            ResetButton.Location = new Point(162, 40);
             ResetButton.Margin = new Padding(4, 3, 4, 3);
             ResetButton.Name = "ResetButton";
-            ResetButton.Size = new Size(98, 29);
+            ResetButton.Size = new Size(139, 44);
             ResetButton.TabIndex = 11;
             ResetButton.Text = "Reset";
             ResetButton.UseVisualStyleBackColor = true;
@@ -230,7 +228,7 @@
             // 
             // DealerPicture2
             // 
-            DealerPicture2.Location = new Point(180, 68);
+            DealerPicture2.Location = new Point(180, 121);
             DealerPicture2.Margin = new Padding(4, 3, 4, 3);
             DealerPicture2.Name = "DealerPicture2";
             DealerPicture2.Size = new Size(114, 166);
@@ -239,7 +237,7 @@
             // 
             // DealerPicture3
             // 
-            DealerPicture3.Location = new Point(301, 68);
+            DealerPicture3.Location = new Point(301, 121);
             DealerPicture3.Margin = new Padding(4, 3, 4, 3);
             DealerPicture3.Name = "DealerPicture3";
             DealerPicture3.Size = new Size(114, 166);
@@ -248,7 +246,7 @@
             // 
             // DealerPicture4
             // 
-            DealerPicture4.Location = new Point(422, 68);
+            DealerPicture4.Location = new Point(422, 121);
             DealerPicture4.Margin = new Padding(4, 3, 4, 3);
             DealerPicture4.Name = "DealerPicture4";
             DealerPicture4.Size = new Size(114, 166);
@@ -257,7 +255,7 @@
             // 
             // DealerPicture5
             // 
-            DealerPicture5.Location = new Point(544, 68);
+            DealerPicture5.Location = new Point(544, 121);
             DealerPicture5.Margin = new Padding(4, 3, 4, 3);
             DealerPicture5.Name = "DealerPicture5";
             DealerPicture5.Size = new Size(114, 166);
@@ -284,7 +282,7 @@
             // 
             // DealerPicture6
             // 
-            DealerPicture6.Location = new Point(665, 68);
+            DealerPicture6.Location = new Point(665, 121);
             DealerPicture6.Margin = new Padding(4, 3, 4, 3);
             DealerPicture6.Name = "DealerPicture6";
             DealerPicture6.Size = new Size(114, 166);
@@ -293,7 +291,7 @@
             // 
             // DealerPicture7
             // 
-            DealerPicture7.Location = new Point(786, 68);
+            DealerPicture7.Location = new Point(786, 121);
             DealerPicture7.Margin = new Padding(4, 3, 4, 3);
             DealerPicture7.Name = "DealerPicture7";
             DealerPicture7.Size = new Size(114, 166);
@@ -304,21 +302,11 @@
             // 
             playerNameLabel.AutoSize = true;
             playerNameLabel.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
-            playerNameLabel.Location = new Point(322, 5);
+            playerNameLabel.Location = new Point(12, 6);
             playerNameLabel.Name = "playerNameLabel";
             playerNameLabel.Size = new Size(80, 30);
             playerNameLabel.TabIndex = 23;
             playerNameLabel.Text = "Player:";
-            // 
-            // dataGridView1
-            // 
-            dataGridView1.AccessibleRole = AccessibleRole.None;
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(646, 68);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.RowTemplate.Height = 25;
-            dataGridView1.Size = new Size(310, 391);
-            dataGridView1.TabIndex = 24;
             // 
             // changeNameBTN
             // 
@@ -343,25 +331,25 @@
             // gameCardGridView
             // 
             gameCardGridView.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            gameCardGridView.Location = new Point(962, 68);
+            gameCardGridView.Location = new Point(962, 40);
             gameCardGridView.Name = "gameCardGridView";
             gameCardGridView.RowTemplate.Height = 25;
-            gameCardGridView.Size = new Size(448, 132);
+            gameCardGridView.Size = new Size(448, 162);
             gameCardGridView.TabIndex = 27;
             // 
             // dataGridView3
             // 
             dataGridView3.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView3.Location = new Point(962, 246);
+            dataGridView3.Location = new Point(962, 232);
             dataGridView3.Name = "dataGridView3";
             dataGridView3.RowTemplate.Height = 25;
-            dataGridView3.Size = new Size(448, 132);
+            dataGridView3.Size = new Size(448, 176);
             dataGridView3.TabIndex = 28;
             // 
             // PlayerTableGridView
             // 
             PlayerTableGridView.AutoSize = true;
-            PlayerTableGridView.Location = new Point(962, 228);
+            PlayerTableGridView.Location = new Point(962, 214);
             PlayerTableGridView.Name = "PlayerTableGridView";
             PlayerTableGridView.Size = new Size(72, 15);
             PlayerTableGridView.TabIndex = 29;
@@ -370,7 +358,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(962, 50);
+            label3.Location = new Point(962, 22);
             label3.Name = "label3";
             label3.Size = new Size(96, 15);
             label3.TabIndex = 30;
@@ -398,7 +386,6 @@
             Controls.Add(gameCardGridView);
             Controls.Add(DeletePlayerBTN);
             Controls.Add(changeNameBTN);
-            Controls.Add(dataGridView1);
             Controls.Add(playerNameLabel);
             Controls.Add(DealerPicture7);
             Controls.Add(DealerPicture6);
@@ -441,7 +428,6 @@
             ((System.ComponentModel.ISupportInitialize)PlayerpictureBox7).EndInit();
             ((System.ComponentModel.ISupportInitialize)DealerPicture6).EndInit();
             ((System.ComponentModel.ISupportInitialize)DealerPicture7).EndInit();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ((System.ComponentModel.ISupportInitialize)gameCardGridView).EndInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView3).EndInit();
             ResumeLayout(false);
@@ -474,7 +460,6 @@
         private PictureBox DealerPicture6;
         private PictureBox DealerPicture7;
         private Label playerNameLabel;
-        private DataGridView dataGridView1;
         private Button changeNameBTN;
         private Button DeletePlayerBTN;
         private DataGridView gameCardGridView;

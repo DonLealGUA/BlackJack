@@ -39,7 +39,7 @@ namespace Assignment4_Blackjack
             //AddStandardDeckToDatabase();
             deck = new Deck(BJBLL.GetAllCards());
             gameID = BJBLL.GetLastGameId();
-            gameID= gameID + 1;
+            gameID = gameID + 1;
 
 
             //Fix dataGridView
