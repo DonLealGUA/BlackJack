@@ -1,0 +1,13 @@
+C:\Users\krist\source\repos\Assignment5_Blackjack\UtilitiesLib\bin\Debug\net6.0\UtilitiesLib.deps.json
+C:\Users\krist\source\repos\Assignment5_Blackjack\UtilitiesLib\bin\Debug\net6.0\UtilitiesLib.dll
+C:\Users\krist\source\repos\Assignment5_Blackjack\UtilitiesLib\bin\Debug\net6.0\UtilitiesLib.pdb
+C:\Users\krist\source\repos\Assignment5_Blackjack\UtilitiesLib\obj\Debug\net6.0\UtilitiesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\Assignment5_Blackjack\UtilitiesLib\obj\Debug\net6.0\UtilitiesLib.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\Assignment5_Blackjack\UtilitiesLib\obj\Debug\net6.0\UtilitiesLib.AssemblyInfo.cs
+C:\Users\krist\source\repos\Assignment5_Blackjack\UtilitiesLib\obj\Debug\net6.0\UtilitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\Assignment5_Blackjack\UtilitiesLib\obj\Debug\net6.0\UtilitiesLib.dll
+C:\Users\krist\source\repos\Assignment5_Blackjack\UtilitiesLib\obj\Debug\net6.0\refint\UtilitiesLib.dll
+C:\Users\krist\source\repos\Assignment5_Blackjack\UtilitiesLib\obj\Debug\net6.0\UtilitiesLib.pdb
+C:\Users\krist\source\repos\Assignment5_Blackjack\UtilitiesLib\obj\Debug\net6.0\ref\UtilitiesLib.dll
+C:\Users\krist\source\repos\Assignment5_Blackjack\UtilitiesLib\bin\Debug\net6.0\UtilitiesLib.runtimeconfig.json
+C:\Users\krist\source\repos\Assignment5_Blackjack\UtilitiesLib\obj\Debug\net6.0\UtilitiesLib.genruntimeconfig.cache

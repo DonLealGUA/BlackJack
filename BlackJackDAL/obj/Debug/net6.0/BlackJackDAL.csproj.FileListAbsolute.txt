@@ -1,0 +1,17 @@
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\obj\Debug\net6.0\BlackJackDAL.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\obj\Debug\net6.0\BlackJackDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\obj\Debug\net6.0\BlackJackDAL.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\obj\Debug\net6.0\BlackJackDAL.AssemblyInfo.cs
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\obj\Debug\net6.0\BlackJackDAL.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\bin\Debug\net6.0\BlackJackDAL.deps.json
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\bin\Debug\net6.0\BlackJackDAL.runtimeconfig.json
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\bin\Debug\net6.0\BlackJackDAL.dll
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\bin\Debug\net6.0\BlackJackDAL.pdb
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\bin\Debug\net6.0\BlackJackEL.dll
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\bin\Debug\net6.0\BlackJackEL.pdb
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\obj\Debug\net6.0\BlackJackDAL.csproj.CopyComplete
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\obj\Debug\net6.0\BlackJackDAL.dll
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\obj\Debug\net6.0\refint\BlackJackDAL.dll
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\obj\Debug\net6.0\BlackJackDAL.pdb
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\obj\Debug\net6.0\BlackJackDAL.genruntimeconfig.cache
+C:\Users\krist\source\repos\Assignment5_Blackjack\BlackJackDAL\obj\Debug\net6.0\ref\BlackJackDAL.dll
